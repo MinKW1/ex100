@@ -1,4 +1,4 @@
-package test1;
+package java_ex100;
 
 public class ex100_3 {
 
